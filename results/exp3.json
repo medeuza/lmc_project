@@ -1,0 +1,212 @@
+[
+  {
+    "width": 16,
+    "pair": 0,
+    "weight_match": 0.05556964874267578,
+    "activation_match": 0.09225159883499146
+  },
+  {
+    "width": 16,
+    "pair": 1,
+    "weight_match": 0.42414696514606476,
+    "activation_match": 0.7790589779615402
+  },
+  {
+    "width": 16,
+    "pair": 2,
+    "weight_match": 0.3321183919906616,
+    "activation_match": 0.6154934912919998
+  },
+  {
+    "width": 16,
+    "pair": 3,
+    "weight_match": 0.789957714577516,
+    "activation_match": 0.4399515986442566
+  },
+  {
+    "width": 16,
+    "pair": 4,
+    "weight_match": 0.8470840156078339,
+    "activation_match": 0.3028038442134857
+  },
+  {
+    "width": 32,
+    "pair": 0,
+    "weight_match": 0.23668624460697174,
+    "activation_match": 0.17451514303684235
+  },
+  {
+    "width": 32,
+    "pair": 1,
+    "weight_match": 0.20440805330872536,
+    "activation_match": 0.15375620499253273
+  },
+  {
+    "width": 32,
+    "pair": 2,
+    "weight_match": 0.32763469219207764,
+    "activation_match": 0.07052728533744812
+  },
+  {
+    "width": 32,
+    "pair": 3,
+    "weight_match": 0.03640174865722656,
+    "activation_match": 0.09464539587497711
+  },
+  {
+    "width": 32,
+    "pair": 4,
+    "weight_match": 0.11305646101633704,
+    "activation_match": 0.13714832812547684
+  },
+  {
+    "width": 64,
+    "pair": 0,
+    "weight_match": 0.06780798733234406,
+    "activation_match": 0.049853935837745667
+  },
+  {
+    "width": 64,
+    "pair": 1,
+    "weight_match": 0.05050748586654663,
+    "activation_match": 0.05433619022369385
+  },
+  {
+    "width": 64,
+    "pair": 2,
+    "weight_match": 0.07823136448860168,
+    "activation_match": 0.05481657385826111
+  },
+  {
+    "width": 64,
+    "pair": 3,
+    "weight_match": 0.040504487852255466,
+    "activation_match": 0.07549490034580231
+  },
+  {
+    "width": 64,
+    "pair": 4,
+    "weight_match": 0.016879484057426453,
+    "activation_match": 0.02597486848632491
+  },
+  {
+    "width": 128,
+    "pair": 0,
+    "weight_match": 0.009449109435081482,
+    "activation_match": 0.02399984250466025
+  },
+  {
+    "width": 128,
+    "pair": 1,
+    "weight_match": 0.008248495558897617,
+    "activation_match": 0.0252130925655365
+  },
+  {
+    "width": 128,
+    "pair": 2,
+    "weight_match": 0.014272555708885193,
+    "activation_match": 0.035679227362076404
+  },
+  {
+    "width": 128,
+    "pair": 3,
+    "weight_match": 0.009655103087425232,
+    "activation_match": 0.029469981789588928
+  },
+  {
+    "width": 128,
+    "pair": 4,
+    "weight_match": 0.008812644829352678,
+    "activation_match": 0.020351388802131
+  },
+  {
+    "width": 256,
+    "pair": 0,
+    "weight_match": 0.0,
+    "activation_match": 0.011841312050819397
+  },
+  {
+    "width": 256,
+    "pair": 1,
+    "weight_match": 0.0,
+    "activation_match": 0.0
+  },
+  {
+    "width": 256,
+    "pair": 2,
+    "weight_match": 0.003937376042207064,
+    "activation_match": 0.018887770672639193
+  },
+  {
+    "width": 256,
+    "pair": 3,
+    "weight_match": 0.0,
+    "activation_match": 0.0
+  },
+  {
+    "width": 256,
+    "pair": 4,
+    "weight_match": 0.0,
+    "activation_match": 0.005422547459602356
+  },
+  {
+    "width": 512,
+    "pair": 0,
+    "weight_match": 0.0,
+    "activation_match": 0.0
+  },
+  {
+    "width": 512,
+    "pair": 1,
+    "weight_match": 0.0,
+    "activation_match": 0.004559696962436022
+  },
+  {
+    "width": 512,
+    "pair": 2,
+    "weight_match": 0.0,
+    "activation_match": 0.0
+  },
+  {
+    "width": 512,
+    "pair": 3,
+    "weight_match": 0.0,
+    "activation_match": 0.0
+  },
+  {
+    "width": 512,
+    "pair": 4,
+    "weight_match": 0.0,
+    "activation_match": 0.0
+  },
+  {
+    "width": 1024,
+    "pair": 0,
+    "weight_match": 0.0,
+    "activation_match": 0.007290143519639969
+  },
+  {
+    "width": 1024,
+    "pair": 1,
+    "weight_match": 0.0,
+    "activation_match": 0.0
+  },
+  {
+    "width": 1024,
+    "pair": 2,
+    "weight_match": 0.0,
+    "activation_match": 0.0
+  },
+  {
+    "width": 1024,
+    "pair": 3,
+    "weight_match": 0.0,
+    "activation_match": 0.0
+  },
+  {
+    "width": 1024,
+    "pair": 4,
+    "weight_match": 0.0,
+    "activation_match": 0.0
+  }
+]

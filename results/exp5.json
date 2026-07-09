@@ -1,0 +1,233 @@
+[
+  {
+    "width": 16,
+    "step": 10,
+    "loss_barrier_mean": 0.07188695867856332,
+    "loss_barrier_std": 0.02563322957340154,
+    "err_barrier_mean": 0.05504500120878222,
+    "err_barrier_std": 0.06892625842525779,
+    "endpoint_loss_mean": 2.0226871728897096,
+    "n_pairs": 5,
+    "trained": false
+  },
+  {
+    "width": 16,
+    "step": 20,
+    "loss_barrier_mean": 0.08548652033011121,
+    "loss_barrier_std": 0.026873169314935115,
+    "err_barrier_mean": 0.05204000174999235,
+    "err_barrier_std": 0.04559701861381965,
+    "endpoint_loss_mean": 1.7858683824539185,
+    "n_pairs": 5,
+    "trained": true
+  },
+  {
+    "width": 16,
+    "step": 50,
+    "loss_barrier_mean": 0.1281864782174428,
+    "loss_barrier_std": 0.03375515841907033,
+    "err_barrier_mean": 0.061703335493803024,
+    "err_barrier_std": 0.027128780823386104,
+    "endpoint_loss_mean": 1.2720781564712524,
+    "n_pairs": 5,
+    "trained": true
+  },
+  {
+    "width": 16,
+    "step": 100,
+    "loss_barrier_mean": 0.15885529369115828,
+    "loss_barrier_std": 0.02169037946722906,
+    "err_barrier_mean": 0.06923333903153737,
+    "err_barrier_std": 0.02485176248205252,
+    "endpoint_loss_mean": 0.8945462942123413,
+    "n_pairs": 5,
+    "trained": true
+  },
+  {
+    "width": 16,
+    "step": 300,
+    "loss_barrier_mean": 0.2135842214028041,
+    "loss_barrier_std": 0.07302488846955049,
+    "err_barrier_mean": 0.11367000353833039,
+    "err_barrier_std": 0.03463495410241973,
+    "endpoint_loss_mean": 0.6179884552955628,
+    "n_pairs": 5,
+    "trained": true
+  },
+  {
+    "width": 16,
+    "step": 1000,
+    "loss_barrier_mean": 0.3485136831800143,
+    "loss_barrier_std": 0.2489219039222455,
+    "err_barrier_mean": 0.1283449914306402,
+    "err_barrier_std": 0.0607151600963275,
+    "endpoint_loss_mean": 0.4912955939769745,
+    "n_pairs": 5,
+    "trained": true
+  },
+  {
+    "width": 16,
+    "step": 3000,
+    "loss_barrier_mean": 0.48820460836092633,
+    "loss_barrier_std": 0.4482001138980246,
+    "err_barrier_mean": 0.14255833017329372,
+    "err_barrier_std": 0.06218591521987092,
+    "endpoint_loss_mean": 0.43806382417678835,
+    "n_pairs": 5,
+    "trained": true
+  },
+  {
+    "width": 64,
+    "step": 10,
+    "loss_barrier_mean": 0.07966225147247315,
+    "loss_barrier_std": 0.007293892192440307,
+    "err_barrier_mean": 0.014336662987868,
+    "err_barrier_std": 0.002785556064709633,
+    "endpoint_loss_mean": 1.6998830556869506,
+    "n_pairs": 5,
+    "trained": true
+  },
+  {
+    "width": 64,
+    "step": 20,
+    "loss_barrier_mean": 0.06700236697991686,
+    "loss_barrier_std": 0.007093854231087465,
+    "err_barrier_mean": 0.009373333305120458,
+    "err_barrier_std": 0.013543265523540413,
+    "endpoint_loss_mean": 1.2757394075393678,
+    "n_pairs": 5,
+    "trained": true
+  },
+  {
+    "width": 64,
+    "step": 50,
+    "loss_barrier_mean": 0.05481613725423815,
+    "loss_barrier_std": 0.007245230155323381,
+    "err_barrier_mean": 0.008554996798435844,
+    "err_barrier_std": 0.005891605194897473,
+    "endpoint_loss_mean": 0.8397761464118958,
+    "n_pairs": 5,
+    "trained": true
+  },
+  {
+    "width": 64,
+    "step": 100,
+    "loss_barrier_mean": 0.05175805936257043,
+    "loss_barrier_std": 0.007153144253173381,
+    "err_barrier_mean": 0.010038329909245169,
+    "err_barrier_std": 0.008208981884464886,
+    "endpoint_loss_mean": 0.6850112318992615,
+    "n_pairs": 5,
+    "trained": true
+  },
+  {
+    "width": 64,
+    "step": 300,
+    "loss_barrier_mean": 0.04525764435529707,
+    "loss_barrier_std": 0.027116502268765864,
+    "err_barrier_mean": 0.013230000187953317,
+    "err_barrier_std": 0.010319672785621029,
+    "endpoint_loss_mean": 0.5309253454208374,
+    "n_pairs": 5,
+    "trained": true
+  },
+  {
+    "width": 64,
+    "step": 1000,
+    "loss_barrier_mean": 0.02972174435853956,
+    "loss_barrier_std": 0.009570964381423887,
+    "err_barrier_mean": 0.007349998007218033,
+    "err_barrier_std": 0.004485868673489881,
+    "endpoint_loss_mean": 0.4444429576396942,
+    "n_pairs": 5,
+    "trained": true
+  },
+  {
+    "width": 64,
+    "step": 3000,
+    "loss_barrier_mean": 0.054796685030062985,
+    "loss_barrier_std": 0.01906003483219604,
+    "err_barrier_mean": 0.022809997325142228,
+    "err_barrier_std": 0.011505654499147588,
+    "endpoint_loss_mean": 0.3834060251712799,
+    "n_pairs": 5,
+    "trained": true
+  },
+  {
+    "width": 256,
+    "step": 10,
+    "loss_barrier_mean": 0.09666829605897265,
+    "loss_barrier_std": 0.002330013871442824,
+    "err_barrier_mean": 0.008003343890110648,
+    "err_barrier_std": 0.00987831468551183,
+    "endpoint_loss_mean": 1.3122025728225708,
+    "n_pairs": 5,
+    "trained": true
+  },
+  {
+    "width": 256,
+    "step": 20,
+    "loss_barrier_mean": 0.034994081656138064,
+    "loss_barrier_std": 0.009400742480311391,
+    "err_barrier_mean": 0.0021933361887931714,
+    "err_barrier_std": 0.0032038412728999273,
+    "endpoint_loss_mean": 0.9324589371681213,
+    "n_pairs": 5,
+    "trained": true
+  },
+  {
+    "width": 256,
+    "step": 50,
+    "loss_barrier_mean": 0.01803008268276849,
+    "loss_barrier_std": 0.011280716859836946,
+    "err_barrier_mean": 0.003474998474121094,
+    "err_barrier_std": 0.0035729925829313396,
+    "endpoint_loss_mean": 0.701161015033722,
+    "n_pairs": 5,
+    "trained": true
+  },
+  {
+    "width": 256,
+    "step": 100,
+    "loss_barrier_mean": 0.012851107617219259,
+    "loss_barrier_std": 0.006790518532628071,
+    "err_barrier_mean": 0.0011166666944821657,
+    "err_barrier_std": 0.0013586740023124237,
+    "endpoint_loss_mean": 0.599806797504425,
+    "n_pairs": 5,
+    "trained": true
+  },
+  {
+    "width": 256,
+    "step": 300,
+    "loss_barrier_mean": 0.002692680060863495,
+    "loss_barrier_std": 0.0026547119186553694,
+    "err_barrier_mean": 0.00040166626373926986,
+    "err_barrier_std": 0.0007038049926066345,
+    "endpoint_loss_mean": 0.4871955275535583,
+    "n_pairs": 5,
+    "trained": true
+  },
+  {
+    "width": 256,
+    "step": 1000,
+    "loss_barrier_mean": 0.001213764399290085,
+    "loss_barrier_std": 0.0015831676419016155,
+    "err_barrier_mean": 0.0008999992161989212,
+    "err_barrier_std": 0.0010188816819510782,
+    "endpoint_loss_mean": 0.40359907150268554,
+    "n_pairs": 5,
+    "trained": true
+  },
+  {
+    "width": 256,
+    "step": 3000,
+    "loss_barrier_mean": 0.0005456477403640748,
+    "loss_barrier_std": 0.0010912954807281495,
+    "err_barrier_mean": 0.0016066654895742743,
+    "err_barrier_std": 0.0009682079612886458,
+    "endpoint_loss_mean": 0.3396876811981201,
+    "n_pairs": 5,
+    "trained": true
+  }
+]

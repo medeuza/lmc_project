@@ -1,0 +1,118 @@
+{
+  "loss": {
+    "beta_width_alone": -0.7190082622920494,
+    "beta_width_ctrl_align": -0.22690592607630203,
+    "beta_align_ctrl_width": -0.5793305638255167,
+    "partial_corr_align_barrier": -0.4398708873394312,
+    "r2_width_alone": 0.5169728914369874,
+    "r2_width_align": 0.610432066581587,
+    "corr_align_barrier": -0.7720718779818792,
+    "bootstrap": {
+      "beta_width_ctrl_align_ci95": [
+        -0.7214579206492808,
+        0.07400307546508705
+      ],
+      "beta_align_ctrl_width_ci95": [
+        -0.9025289774823241,
+        -0.06198230867042379
+      ],
+      "n_boot": 2000
+    },
+    "within_width": {
+      "per_width_r": {
+        "16": -0.5478072692501434,
+        "32": -0.6029295401382986,
+        "64": 0.11972454110742634,
+        "128": -0.6625876649933948,
+        "256": -0.2928770807199244,
+        "512": null,
+        "1024": null
+      },
+      "pooled_within_r_all": -0.44407675042652417,
+      "pooled_within_r_nonzero_widths": -0.4469761289078298
+    },
+    "subset_nonzero_widths": {
+      "beta_width_alone": -0.8005642286497008,
+      "beta_width_ctrl_align": -0.5998287286090329,
+      "beta_align_ctrl_width": -0.26298680171925204,
+      "partial_corr_align_barrier": -0.2835289088156516,
+      "r2_width_alone": 0.6409030945432252,
+      "r2_width_align": 0.6697704071674867,
+      "bootstrap": {
+        "beta_width_ctrl_align_ci95": [
+          -1.0144505752884425,
+          -0.27677385510086294
+        ],
+        "beta_align_ctrl_width_ci95": [
+          -0.6171037433530202,
+          0.206649028178284
+        ],
+        "n_boot": 2000
+      },
+      "widths_used": [
+        16,
+        32,
+        64,
+        128
+      ]
+    }
+  },
+  "err": {
+    "beta_width_alone": -0.6912179827961088,
+    "beta_width_ctrl_align": -0.20045635202181605,
+    "beta_align_ctrl_width": -0.5777522099300751,
+    "partial_corr_align_barrier": -0.42189110798913854,
+    "r2_width_alone": 0.4777823276791261,
+    "r2_width_align": 0.5707329514883122,
+    "corr_align_barrier": -0.7480264041227317,
+    "bootstrap": {
+      "beta_width_ctrl_align_ci95": [
+        -0.7343585868515803,
+        0.1055430581204094
+      ],
+      "beta_align_ctrl_width_ci95": [
+        -0.9064154520852445,
+        -0.039105430264198
+      ],
+      "n_boot": 2000
+    },
+    "within_width": {
+      "per_width_r": {
+        "16": -0.5144980803127972,
+        "32": -0.616337824182272,
+        "64": -0.7313534676974052,
+        "128": -0.3371914826904138,
+        "256": -0.6071961236128077,
+        "512": 0.07561542637982799,
+        "1024": 0.17063035212123917
+      },
+      "pooled_within_r_all": -0.4118351184370781,
+      "pooled_within_r_nonzero_widths": -0.4118351184370781
+    },
+    "subset_nonzero_widths": {
+      "beta_width_alone": -0.7685418998320553,
+      "beta_width_ctrl_align": -0.5645247318555632,
+      "beta_align_ctrl_width": -0.26728616757418133,
+      "partial_corr_align_barrier": -0.269899364509081,
+      "r2_width_alone": 0.5906566807386862,
+      "r2_width_align": 0.6204755678468817,
+      "bootstrap": {
+        "beta_width_ctrl_align_ci95": [
+          -1.017372580651514,
+          -0.2451074526893936
+        ],
+        "beta_align_ctrl_width_ci95": [
+          -0.6334966251234924,
+          0.2424689772709914
+        ],
+        "n_boot": 2000
+      },
+      "widths_used": [
+        16,
+        32,
+        64,
+        128
+      ]
+    }
+  }
+}

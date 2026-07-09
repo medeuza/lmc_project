@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+
+.venv/
+
+.idea/
+.vscode/
+
+.DS_Store
+
+ckpt/
+ckpt_old_*/
+
+data/
+
+*.log
+rerun_final.log

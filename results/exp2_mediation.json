@@ -1,0 +1,130 @@
+{
+  "loss": {
+    "beta_width_alone": -0.6544561583040595,
+    "beta_width_ctrl_align": -0.22822376616699194,
+    "beta_align_ctrl_width": -0.5283448336473161,
+    "partial_corr_align_barrier": -0.4129197200286171,
+    "r2_width_alone": 0.428312866874067,
+    "r2_width_align": 0.5257870638766318,
+    "corr_align_barrier": -0.7124601166222996,
+    "beta_width_ctrl_mean": -0.22822376616699194,
+    "beta_width_ctrl_mean_tail": -0.22174688423998487,
+    "beta_tail_ctrl": -0.08096657030466838,
+    "resid_ss_mean_only": 16.59745260310528,
+    "resid_ss_mean_tail": 16.420186202542826,
+    "extra_var_explained_by_tail": 0.010680337808602891,
+    "bootstrap": {
+      "beta_width_ctrl_align_ci95": [
+        -0.4236789364220817,
+        0.0025633226529211107
+      ],
+      "beta_align_ctrl_width_ci95": [
+        -0.8129786506425316,
+        -0.34832399002544023
+      ],
+      "n_boot": 2000
+    },
+    "within_width": {
+      "per_width_r": {
+        "16": 0.07033913709173242,
+        "32": -0.7317977353093466,
+        "64": -0.3692778362260179,
+        "128": -0.06677612906885938,
+        "256": 0.6707544311909396,
+        "512": null,
+        "1024": null
+      },
+      "pooled_within_r_all": -0.14701346845550323,
+      "pooled_within_r_nonzero_widths": -0.14895281947913608
+    },
+    "subset_nonzero_widths": {
+      "beta_width_alone": -0.7187106686682717,
+      "beta_width_ctrl_align": -0.5874576874336989,
+      "beta_align_ctrl_width": -0.1670325514058887,
+      "partial_corr_align_barrier": -0.1485783772235065,
+      "r2_width_alone": 0.5165450285584154,
+      "r2_width_align": 0.5272175553041771,
+      "bootstrap": {
+        "beta_width_ctrl_align_ci95": [
+          -1.0991796621854844,
+          -0.12213263583576227
+        ],
+        "beta_align_ctrl_width_ci95": [
+          -0.6573197880092966,
+          0.3143202570060278
+        ],
+        "n_boot": 2000
+      },
+      "widths_used": [
+        16,
+        32,
+        64,
+        128
+      ]
+    }
+  },
+  "err": {
+    "beta_width_alone": -0.735285578567253,
+    "beta_width_ctrl_align": -0.21901300705677304,
+    "beta_align_ctrl_width": -0.6399559276660033,
+    "partial_corr_align_barrier": -0.5579601334308022,
+    "r2_width_alone": 0.5406449014720496,
+    "r2_width_align": 0.6836511058905861,
+    "corr_align_barrier": -0.8166406099873768,
+    "beta_width_ctrl_mean": -0.21901300705677304,
+    "beta_width_ctrl_mean_tail": -0.21423985721411315,
+    "beta_tail_ctrl": -0.0596684603279502,
+    "resid_ss_mean_only": 11.072210884980443,
+    "resid_ss_mean_tail": 10.975937863309081,
+    "extra_var_explained_by_tail": 0.008695013369276472,
+    "bootstrap": {
+      "beta_width_ctrl_align_ci95": [
+        -0.38819487157042903,
+        0.0023238726063250265
+      ],
+      "beta_align_ctrl_width_ci95": [
+        -0.8296015642132482,
+        -0.4931638099357255
+      ],
+      "n_boot": 2000
+    },
+    "within_width": {
+      "per_width_r": {
+        "16": -0.10448671309354408,
+        "32": -0.8007905495741942,
+        "64": -0.3720978103878067,
+        "128": -0.40353822558695357,
+        "256": 0.8866918407194905,
+        "512": 0.6949640803602031,
+        "1024": 0.04172841102281514
+      },
+      "pooled_within_r_all": -0.3090288102869709,
+      "pooled_within_r_nonzero_widths": -0.3090288102869709
+    },
+    "subset_nonzero_widths": {
+      "beta_width_alone": -0.7893210723908902,
+      "beta_width_ctrl_align": -0.5301610578963786,
+      "beta_align_ctrl_width": -0.32980704922840265,
+      "partial_corr_align_barrier": -0.33222917935162594,
+      "r2_width_alone": 0.6230277745130612,
+      "r2_width_align": 0.6646365466770567,
+      "bootstrap": {
+        "beta_width_ctrl_align_ci95": [
+          -0.9926123209013946,
+          -0.06018344688872197
+        ],
+        "beta_align_ctrl_width_ci95": [
+          -0.698574864009868,
+          0.07783496303350894
+        ],
+        "n_boot": 2000
+      },
+      "widths_used": [
+        16,
+        32,
+        64,
+        128
+      ]
+    }
+  }
+}
